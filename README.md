@@ -1,4 +1,4 @@
-<img width="800" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/039/118/original/Screen_Shot_2022-06-30_at_2.22.53_PM.png?1656624369" />
+<img width="500" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/039/118/original/Screen_Shot_2022-06-30_at_2.22.53_PM.png?1656624369" />
 
 
 
