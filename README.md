@@ -1,4 +1,7 @@
-### Hi there 👋
+<img width="800" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/039/118/original/Screen_Shot_2022-06-30_at_2.22.53_PM.png?1656624369" />
+
+
+
 
 <!--
 **weijwang18/weijwang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
